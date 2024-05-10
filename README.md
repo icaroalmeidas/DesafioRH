@@ -4,9 +4,9 @@
 
 Human Resources Data Set
 Dataset used for learning data visualization and basic regression.
-Data set: [CLIQUE AQUI!](https://www.kaggle.com/datasets/lissadora/human-resources-data-set)
+Data set: [CLICK HERE!](https://www.kaggle.com/datasets/lissadora/human-resources-data-set)
 
-DashBoard:  [CLIQUE AQUI!](https://app.powerbi.com/view?r=eyJrIjoiZDg2NGY2NjMtZjJlMy00NzIxLThlNmMtOGRiOTIxZGQ0ZTEyIiwidCI6IjdlYWMxYzIzLWMxZjUtNGY1Ni1iYmNhLTUzZjMxZmZiMTQ0YSJ9&pageName=ReportSectionf5e873d9418a2298ffb8)
+DashBoard:  [CLICK HERE!](https://app.powerbi.com/view?r=eyJrIjoiZDg2NGY2NjMtZjJlMy00NzIxLThlNmMtOGRiOTIxZGQ0ZTEyIiwidCI6IjdlYWMxYzIzLWMxZjUtNGY1Ni1iYmNhLTUzZjMxZmZiMTQ0YSJ9&pageName=ReportSectionf5e873d9418a2298ffb8)
 
 Here are some open-ended questions that you can explore and try to address through creating Power BI visualizations.
 
