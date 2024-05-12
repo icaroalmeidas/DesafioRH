@@ -30,6 +30,8 @@ What is the overall diversity profile of the organization?
 
 ![image](https://github.com/icaroalmeidas/DesafioRH/assets/106759439/3ec7a303-64bb-4609-a72d-9fab7b5eea06)
 
+On the visualization above we can realize that more than 60% of our employees are white.
+
 What are our best recruiting sources if we want to ensure a diverse organization?
 
 ![image](https://github.com/icaroalmeidas/DesafioRH/assets/106759439/aabd6bef-7491-4eb4-a376-cf80a0112591)
